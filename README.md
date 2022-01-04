@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center" width="300">
-   <img align="center" width="200" src="https://raw.githubusercontent.com/djsflores/djsflores/master/perfil.jpg" />
+   <img align="center" width="200" src="https://raw.githubusercontent.com/djsflores/djsflores/master/perfil.jpg" style="border-radius: 100%;" />
    <h3 align="center">¡Hi 👋! I'm David 👨🏻‍💻</h3>
 </p>
 <p align="center">I'm a <strong>Ssr Full Stack</strong> developer<br />¡Check my content 👇!</p>
